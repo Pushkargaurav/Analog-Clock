@@ -1,8 +1,8 @@
 </?php
 
-include_once("clock.html") ;
-include_once("clock.css") ;
-include_once("clock.js") ;
-include_once("clock.png") ;
+include("clock.html") ;
+include("clock.css") ;
+include("clock.js") ;
+include("clock.png") ;
 
 ?>
